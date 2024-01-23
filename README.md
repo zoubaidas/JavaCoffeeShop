@@ -1,5 +1,19 @@
 # Java Coffee Shop
 
+This is an educational Java application that is intentionally made vulnerable.
+
+## Getting started
+
+Simply run the application to get started:
+
+```bash
+mvn spring-boot:run
+```
+
+Note: This Java application uses an in-memory database so no MySQL or other database is required to be spined-up.
+
+## Disclaimer
+
 This application is an intentional vulnerable Java Spring-Boot application with Thymeleaf.
 It is use for training purposes only!
 
